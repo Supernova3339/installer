@@ -71,4 +71,4 @@ namespace SuperMailInstaller_BootStrapper
     }
 }
 
-// holy shit who is this sexy beast - supernova#1388 - superdev.one - dm me if you need help with setup, this can be used on any windows program, android, ios, mac, and linux is NOT supported - hi jigsaw :)
+// holy shit who is this sexy beast - Supernova3339#5547 - superdev.one - dm me if you need help with setup, this can be used on any windows program, android, ios, mac, and linux is NOT supported - hi jigsaw :)
